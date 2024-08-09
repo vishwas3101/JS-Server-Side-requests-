@@ -1,0 +1,17 @@
+#main{
+    
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.shape{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(240, 207, 207);
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
